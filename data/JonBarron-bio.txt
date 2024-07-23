@@ -7,3 +7,4 @@ Graduate Research Fellowship in 2009, the C.V. Ramamoorthy Distinguished
 Research Award in 2013, the PAMI Young Researcher Award in 2020. His works
 have received awards at ECCV 2016, TPAMI 2016, ECCV 2020, ICCV 2021,
 CVPR 2022, and the Communications of the ACM (2022).
+
